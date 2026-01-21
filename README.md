@@ -6,8 +6,17 @@ This project showcases smooth transitions where **different cars slide into view
 ---
 
 ## 📸 Project Preview
-(Add screenshots or a screen recording GIF of your project here)
+<p align="center">
+  <img src="https://github.com/IBsai2112/Sliding-Cars/blob/5e0cca284827e0538ca7652acdd2e7871d442b78/11.png?raw=true" width="45%" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/IBsai2112/Sliding-Cars/blob/5e0cca284827e0538ca7652acdd2e7871d442b78/22.png?raw=true" width="45%" />
+</p>
 
+<p align="center">
+  <img src="https://github.com/IBsai2112/Sliding-Cars/blob/5e0cca284827e0538ca7652acdd2e7871d442b78/33.png?raw=true" width="45%" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/IBsai2112/Sliding-Cars/blob/5e0cca284827e0538ca7652acdd2e7871d442b78/44.png?raw=true" width="45%" />
+</p>
 ---
 
 ## 🚀 Features
