@@ -1,0 +1,109 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: "Gilroy";
+    box-sizing: border-box;
+}
+html,body{
+    width: 100%;
+    height: 100%;
+}
+
+
+#main{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    width: 100%;
+    /*   */
+}
+
+#center{
+    
+    position: relative;
+    height: 1080px;
+    width: 1920px;
+    /* background-color: red; */
+    /* height: 80%;
+    width: 60%; */
+}
+
+.imageContainer{
+    
+    overflow: hidden;
+    position: absolute;
+    height: 100%;
+    width: 0%;
+    /* background-color: yellow; */
+
+}
+img{
+    height: 100%;
+    /* width: 100%; */
+    object-fit: cover;
+}
+
+#one{
+    width: 0%;
+}
+
+.text{
+    overflow: hidden;
+    position: absolute;
+    /* bottom: 15%;
+    left: -15%; */
+    z-index: 999;
+    width: 650px;
+    height: 85px;
+    /* background-color: yellow; */
+
+    bottom: 15%; /* fullScreen step1 */
+    left: 6%;
+}
+
+.text h1 {
+    font-family: Teko;
+   font-weight: bold;
+    font-size: 4vw;
+    position: absolute;
+    top: 100px;
+
+        background: -webkit-linear-gradient(#ffffff, #000000);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+    
+    /* teko is a font style stolen from google */
+    .teko> {
+        font-family: "Teko", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: weight;
+        font-style: normal;
+      }
+      
+    
+}
+
+
+.smallText{
+    overflow: hidden;
+    position: absolute;
+    /* bottom: 35px;
+    left: -15%; */
+    z-index: 111;
+    width: 950px;
+    height: 80px;
+    /* background-color: blue; */
+    
+    bottom: 90px;  /* fullScreen step2 */
+    left: 6%;
+}
+.smallText h5 {
+    
+  
+    font-size: 1vw;
+    position: absolute;
+    top: 100px;
+    color: white;
+
+}
