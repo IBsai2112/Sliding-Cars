@@ -57,6 +57,9 @@ This project showcases smooth transitions where **different cars slide into view
 - Add sound effects and transitions
 - Improve mobile responsiveness
 
-## 👨‍💻 Author
+## 👤 Author
 
-Sai Kalnekar
+Sainjal Kalnekar – passionate about building web apps and learning full-stack development.
+
+GitHub: https://github.com/IBsai2112
+
