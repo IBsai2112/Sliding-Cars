@@ -59,7 +59,7 @@ This project showcases smooth transitions where **different cars slide into view
 
 ## 👤 Author
 
-Sainjal Kalnekar – passionate about building web apps and learning full-stack development.
+Sainjal Kalnekar – passionate about building web apps and learning animation.
 
 GitHub: https://github.com/IBsai2112
 
